@@ -6,4 +6,6 @@
 
 ## Second try on Job 2 - added origin
 
-## Third try on Job 3 - removed */
+## Third try on Job 3 - removed */ - build successful
+
+## Fourth Try - added gitpublisher - push only + merge build
