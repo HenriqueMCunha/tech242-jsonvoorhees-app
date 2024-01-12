@@ -9,3 +9,7 @@
 ## Third try on Job 3 - removed */ - build successful
 
 ## Fourth Try - added gitpublisher - push only + merge build
+
+## Successful
+
+## Fifth Try - changing merge before build
