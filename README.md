@@ -12,4 +12,6 @@
 
 ## Successful
 
-## Fifth Try - changing merge before build
+## Fifth Try - changing merge before build - Successful but not merge
+
+## Sixth try , re-added changing merge before build
