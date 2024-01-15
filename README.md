@@ -28,4 +28,6 @@
 
 ## Twelfth Change initial ssh command
 
-## Thirteenth - added ";"after cd command 
+## Thirteenth - added ";"after cd command - SUCCESSFUL!
+
+## Fourteenth - Second test
