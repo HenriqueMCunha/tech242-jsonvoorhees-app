@@ -26,4 +26,6 @@
 
 ## Eleventh try - change directory
 
-## Change initial ssh command
+## Twelfth Change initial ssh command
+
+## Thirteenth - added ";"after cd command 
