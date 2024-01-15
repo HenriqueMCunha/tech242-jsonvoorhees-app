@@ -21,3 +21,5 @@
 ## Eight try - get source code from job2
 
 ## Ninth try - get source code from job 1 
+
+## Tenth try - use chmod to give permissions 
