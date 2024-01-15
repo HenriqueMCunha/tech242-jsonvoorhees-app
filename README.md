@@ -18,4 +18,6 @@
 
 ## Seventh try, job 3 scp test
 
-## Eight try 
+## Eight try - get source code from job2
+
+## Ninth try - get source code from job 1 
