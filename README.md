@@ -23,3 +23,5 @@
 ## Ninth try - get source code from job 1 
 
 ## Tenth try - use chmod to give permissions 
+
+## Eleventh try - change directory
