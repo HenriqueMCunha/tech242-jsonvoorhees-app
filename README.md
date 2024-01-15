@@ -25,3 +25,5 @@
 ## Tenth try - use chmod to give permissions 
 
 ## Eleventh try - change directory
+
+## Change initial ssh command
